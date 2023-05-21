@@ -17,7 +17,7 @@ export function defaultSetting(): UserState {
     userInfo: {
       avatar: 'https://raw.githubusercontent.com/Chanzhaoyu/chatgpt-web/main/src/assets/avatar.jpg',
       name: 'chatUser',
-     // description: 'Youtube频道 <a href="https://www.youtube.com/@techxiaofei" class="text-blue-500" target="_blank" >科技小飞哥</a>',
+      description: '欢迎使用智能聊天机器人',
     },
   }
 }
